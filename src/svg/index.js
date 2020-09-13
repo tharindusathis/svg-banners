@@ -4,6 +4,7 @@ const origin = require("./origin");
 const rainbow = require("./rainbow");
 const textBox = require("./text-box");
 const typeWriter = require("./typewriter");
+const vintage = require("./vintage");
 
 const svgs = {
   glitch,
@@ -12,6 +13,7 @@ const svgs = {
   rainbow,
   textBox,
   typeWriter,
+  vintage,
 };
 
 module.exports = svgs;
